@@ -1,0 +1,26 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.7.1
+  http://backwpup.com
+  Blog Name: Blog di bagdcteamup
+  Blog URL: https://bagdcteamup.altervista.org
+  Generated on: 2020-05-26 12:04.32
+------------------------------------------------------------
+
+
+Informazioni di tutti i plugin:
+------------------------------
+Akismet Anti-Spam (v.4.1.5) da Automattic
+	https://akismet.com/
+BackWPup (v.3.7.1) da Inpsyde GmbH
+	http://backwpup.com
+Yoast SEO (v.14.0.4) da Team Yoast
+	https://yoa.st/1uj
+
+Plugin attivi:
+------------------------------
+Akismet Anti-Spam
+BackWPup
+Yoast SEO
+
+Plugin disattivati:
+------------------------------
