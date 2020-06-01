@@ -1,0 +1,44 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.7.1
+  http://backwpup.com
+  Blog Name: TeamUp
+  Blog URL: https://bagdcteamup.altervista.org
+  Generated on: 2020-05-28 12:27.47
+------------------------------------------------------------
+
+
+Informazioni di tutti i plugin:
+------------------------------
+Akismet Anti-Spam (v.4.1.5) da Automattic
+	https://akismet.com/
+BackWPup (v.3.7.1) da Inpsyde GmbH
+	http://backwpup.com
+BuddyPress (v.6.0.0) da The BuddyPress Community
+	https://buddypress.org/
+BuddyPress Login Redirect to Profile (v.1.2.3) da Brajesh Singh
+	https://buddydev.com/buddypress/bp-redirect-to-profile-plugin-redirect-users-to-their-profile-on-login-on-buddypress-sites/
+BuddyPress Xprofile Custom Field Types (v.1.1.5) da BuddyDev
+	https://buddydev.com/plugins/buddypress-xprofile-custom-field-types/
+Custom Profile Menu for BuddyPress (v.1.0.2) da Nahid Ferdous Mohit
+	https://nahid.dev/project/bp-custom-menu
+Visual Composer (v.27.1) da visualcomposer.com
+	https://visualcomposer.com/premium/?utm_medium=wp-dashboard&utm_source=plugins-page&utm_campaign=vcwb&utm_content=plugin-link
+WordPress Reset (v.1.4.1) da Aristeides Stathopoulos, Matt Martz
+	http://sivel.net/wordpress/wordpress-reset/
+Yoast SEO (v.14.2) da Team Yoast
+	https://yoa.st/1uj
+
+Plugin attivi:
+------------------------------
+BackWPup
+BuddyPress
+BuddyPress Login Redirect to Profile
+BuddyPress Xprofile Custom Field Types
+Custom Profile Menu for BuddyPress
+Visual Composer
+
+Plugin disattivati:
+------------------------------
+Akismet Anti-Spam
+WordPress Reset
+Yoast SEO
