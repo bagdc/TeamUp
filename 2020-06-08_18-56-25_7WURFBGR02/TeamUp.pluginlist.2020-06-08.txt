@@ -1,0 +1,50 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.7.1
+  http://backwpup.com
+  Blog Name: TeamUp
+  Blog URL: https://bagdcteamup.altervista.org
+  Generated on: 2020-06-08 18:56.27
+------------------------------------------------------------
+
+
+Informazioni di tutti i plugin:
+------------------------------
+AddToAny Share Buttons (v.1.7.40) da AddToAny
+	https://www.addtoany.com/
+BackWPup (v.3.7.1) da Inpsyde GmbH
+	http://backwpup.com
+BuddyPress (v.6.0.0) da The BuddyPress Community
+	https://buddypress.org/
+BuddyPress Create Group Types (v.2.3.0) da Wbcom Designs
+	https://wbcomdesigns.com/
+BuddyPress Featured Groups (v.1.3.1) da Venutius
+	http://buddyuser.com/plugin-bp-featured-groups/
+BuddyPress Login Redirect to Profile (v.1.2.3) da Brajesh Singh
+	https://buddydev.com/buddypress/bp-redirect-to-profile-plugin-redirect-users-to-their-profile-on-login-on-buddypress-sites/
+BuddyPress Xprofile Custom Field Types (v.1.1.5) da BuddyDev
+	https://buddydev.com/plugins/buddypress-xprofile-custom-field-types/
+Contact Form 7 (v.5.1.9) da Takayuki Miyoshi
+	https://contactform7.com/
+Elementor (v.2.9.11) da Elementor.com
+	https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash
+LoginPress - Customizing the WordPress Login (v.1.4.4) da WPBrigade
+	https://WPBrigade.com/wordpress/plugins/loginpress/
+WP-Optimize - Clean, Compress, Cache (v.3.1.2) da David Anderson, Ruhani Rabin, Team Updraft
+	https://getwpo.com
+
+Plugin attivi:
+------------------------------
+AddToAny Share Buttons
+BackWPup
+BuddyPress
+BuddyPress Create Group Types
+BuddyPress Featured Groups
+BuddyPress Login Redirect to Profile
+BuddyPress Xprofile Custom Field Types
+Contact Form 7
+Elementor
+LoginPress - Customizing the WordPress Login
+WP-Optimize - Clean, Compress, Cache
+
+Plugin disattivati:
+------------------------------
